@@ -12,4 +12,12 @@
 
 Ferret - minecraft utility mod (in development, repo is temporarily private) | lang: java
 
+## me
+
+discord: ZimnyCat#2355
+
+minecraft: ZimnyCat
+
+onlyfans: coming soon...
+
 <img src="cute.png" width="500"/>
