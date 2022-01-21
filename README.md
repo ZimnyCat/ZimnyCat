@@ -8,7 +8,7 @@
 
 ### 2022:
 
-[crackedlogin](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod (in development) | lang: java
+[crackedlogin](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod (completed) | lang: java
 
 Ferret - minecraft utility mod (in development, repo is temporarily private) | lang: java
 
