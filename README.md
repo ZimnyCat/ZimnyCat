@@ -4,7 +4,7 @@
 
 [jewtrick-client](https://github.com/ZimnyCat/jewtrick-client) - 2b2t queue skip (discontinued and fixed) | lang: python
 
-[BigRat](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod (discontinued) | lang: java
+[BigRat](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod (completed and discontinued) | lang: java
 
 ### 2022:
 
