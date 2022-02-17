@@ -10,9 +10,9 @@
 
 [crackedlogin](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod (completed) | lang: java
 
-Ferret - minecraft utility mod (in development, repo is temporarily private) | lang: java
-
 [2bTracker](https://github.com/ZimnyCat/2bTracker) - tracks 2b2t players (completed) | lang: python
+
+[2b2qs.xyz](https://2b2qs.xyz/) - 2b2t prio queue info in real time
 
 ## me
 
