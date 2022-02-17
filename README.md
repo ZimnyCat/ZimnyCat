@@ -12,7 +12,7 @@
 
 [2bTracker](https://github.com/ZimnyCat/2bTracker) - tracks 2b2t players (completed) | lang: python
 
-[2b2qs.xyz](https://2b2qs.xyz/) - 2b2t prio queue info in real time
+[2b2qs.xyz](https://2b2qs.xyz/) - 2b2t prio queue info in real time (repo: [2b2qs](https://github.com/ZimnyCat/2b2qs)) | lang: python
 
 ## me
 
