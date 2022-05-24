@@ -1,15 +1,15 @@
 ## my projects on github
 
-### 2020-2021:
+### discontinued/completed:
 
-- [**jewtrick-client**](https://github.com/ZimnyCat/jewtrick-client) - 2b2t queue skip | discontinued and fixed | lang: **python**
-- [**BigRat**](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod | discontinued | lang: **java**
+- [**jewtrick-client**](https://github.com/ZimnyCat/jewtrick-client) - 2b2t queue skip (closed) | lang: **python**
+- [**BigRat**](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod | lang: **java**
+- [**crackedlogin**](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod | lang: **java**
+- [**2bTracker**](https://github.com/ZimnyCat/2bTracker) - tracks 2b2t players | lang: **python**
 
-### 2022:
+### active:
 
-- [**crackedlogin**](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod | completed | lang: **java**
-- [**2bTracker**](https://github.com/ZimnyCat/2bTracker) - tracks 2b2t players | completed | lang: **python**
-- [**2b2qs.xyz**](https://2b2qs.xyz/) - 2b2t prio queue info in real time (repo: [2b2qs](https://github.com/ZimnyCat/2b2qs)) | completed | lang: **python**
+- [**2b2qs.xyz**](https://2b2qs.xyz/) - 2b2t prio queue info in real time (repo: [2b2qs](https://github.com/ZimnyCat/2b2qs)) | lang: **python**
 
 ## me
 
