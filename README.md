@@ -6,7 +6,7 @@
 - [**BigRat**](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod | lang: **java**
 - [**crackedlogin**](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod | lang: **java**
 - [**2bTracker**](https://github.com/ZimnyCat/2bTracker) - tracks 2b2t players | lang: **python**
-- [2b2qs](https://github.com/ZimnyCat/2b2qs) - 2b2t prio queue info in real time | lang: **python**
+- [**2b2qs**](https://github.com/ZimnyCat/2b2qs) - 2b2t prio queue info in real time | lang: **python**
 
 ### active:
 
