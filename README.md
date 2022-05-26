@@ -1,6 +1,6 @@
 ## my projects on github
 
-### discontinued/completed/fixed:
+### discontinued/finished/fixed:
 
 - [**jewtrick-client**](https://github.com/ZimnyCat/jewtrick-client) - 2b2t queue skip (closed) | lang: **python**
 - [**BigRat**](https://github.com/ZimnyCat/BigRat) - 1.16.5 minecraft utility mod | lang: **java**
