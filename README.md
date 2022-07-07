@@ -23,5 +23,3 @@
 - onlyfans: coming soon...
 
 ![](https://komarev.com/ghpvc/?username=ZimnyCat)
-
-<img src="cute.png" width="500"/>
