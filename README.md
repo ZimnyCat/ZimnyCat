@@ -14,6 +14,7 @@
   <summary>active</summary>
   
   - [**utilrun**](https://github.com/ZimnyCat/utilrun) - minecraft utility mod engine | lang: **java**
+  - [**reznya**](https://github.com/ZimnyCat/reznya) - minecraft utility mod | lang: **java**
 </details>
 
 ## me
