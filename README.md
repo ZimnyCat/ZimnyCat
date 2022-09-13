@@ -1,7 +1,7 @@
 ## my projects on github
 
 <details>
-  <summary>discontinued / finished / fixed</summary>
+  <summary>discontinued / finished / broken</summary>
   
   - [**jewtrick-client**](https://github.com/ZimnyCat/jewtrick-client) - 2b2t queue skip | lang: **python**
   - [**crackedlogin**](https://github.com/ZimnyCat/crackedlogin) - minecraft auto login mod | lang: **java**
