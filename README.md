@@ -19,7 +19,7 @@
 
 ## me
 
-- discord: ZimnyCat#2355
+- discord: zimnycat
 - minecraft: ZimnyCat
 - onlyfans: coming soon...
 
